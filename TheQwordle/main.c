@@ -252,7 +252,7 @@ int main()
     strcpy(s.word,getRandomWord("5letterwords.txt"));
 
 
-    while(tries<=5)
+    while(tries<=6)
     {
         setdefault();
         input();
